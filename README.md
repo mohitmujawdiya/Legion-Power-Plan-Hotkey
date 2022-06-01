@@ -14,7 +14,7 @@ An Autohotkey Script to toggle between 1 and 2.
 
 # How to make it run at startup?
 
-1. Go to Start Menu > Search and Open Task Schedular
+1. Go to Start Menu > Search and Open Task Scheduler
 2. Go to Actions > Create a basic task
 3. Name it "Legion Power Plan Hotkey" and Press Next
 4. Set trigger to "When I log on" and Press Next
