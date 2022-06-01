@@ -20,7 +20,7 @@ An Autohotkey Script to toggle between 1 and 2.
 4. Set trigger to "When I log on" and Press Next
 5. Select the task to "Start a Program" and Press Next
 7. Browse to LegionPowerPlanHotkey.exe and click open, and you got it: Press Next
-8. Check "Open Properties Dialong when I finish" and click finish
+8. Check "Open Properties Dialog when I finish" and click finish
 9. Check "Run with highest privileges"
 10. Go to Conditions tab and **first** uncheck "stop if computer switches to battery power" and then uncheck "Start the task only if the computer is on AC power"
 11. Go to Settings tab and check "Run the task as soon as possible if the scheduled start is missed" and uncheck "stop the task if running longer than"
