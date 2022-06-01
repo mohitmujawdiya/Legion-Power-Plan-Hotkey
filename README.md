@@ -25,3 +25,13 @@ An Autohotkey Script to toggle between 1 and 2.
 10. Go to Conditions tab and **first** uncheck "stop if computer switches to battery power" and then uncheck "Start the task only if the computer is on AC power"
 11. Go to Settings tab and check "Run the task as soon as possible if the scheduled start is missed" and uncheck "stop the task if running longer than"
 12. Click ok. It's done!
+
+# Credits
+
+I am a complete noob to scripts and stuff. Thanks to the these nice folks.
+
+- SmokelessCPU#7295 on Discord
+- u/scrawlpace on Reddit
+- Autohotkey: https://github.com/Lexikos/AutoHotkey_L
+- Legion RGB Control: https://github.com/4JX/L5P-Keyboard-RGB
+- NirCmd: https://nircmd.nirsoft.net/
