@@ -5,14 +5,14 @@ An Autohotkey Script to toggle between 1 and 2.
 
 2 = Refresh Rate: 60Hz, Resolution: 1920×1200, 32-bit color, Windows Power Plan: Legion Quiet Mode, Lenovo Vantage Power Plan: Quiet, Keyboard Backlight: Off
 
-##Installation
+#Installation
 
 1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Extract and place it in a folder suitable to you.
 3. Run LegionPowerPlan.exe
 4. Press Windows + B to make sure it works.
 
-##How to make it run at startup?
+#How to make it run at startup?
 
 1. Go to Start Menu > Search and Open Task Schedular
 2. Go to Actions > Create a basic task
