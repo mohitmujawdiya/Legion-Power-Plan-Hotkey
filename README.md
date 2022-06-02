@@ -51,7 +51,7 @@ B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vant
 
 ## How to build and customize it yourself?
 
-1. Download an .ahk script file from Main.
+1. Download an .ahk script file from [Main.](https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/tree/main/AHK%20Scripts)
 2. Download and install Autohotkey from https://www.autohotkey.com/download/.
 4. Customize the script as much for your liking.
 5. Compile your script in the .ahk to .exe compiler that came with Autohotkey installation.
