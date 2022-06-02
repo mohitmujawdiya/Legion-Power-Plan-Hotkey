@@ -11,13 +11,13 @@ An Autohotkey Script to toggle between 1 and 2.
 
 |    | 1                                           | 2                                           | Corresponding File Name  |
 | -- | ------------------------------------------- |:-------------------------------------------:| ------------------------:|
-| 1  | Resolution: 2560×1600, Refresh Rate: 165Hz  | Resoulution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
+| 1  | Resolution: 2560×1600, Refresh Rate: 165Hz  | Resolution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
 | 2  | Resolution: 1920×1080, Refresh Rate: 240Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-240Hz       |
 | 3  | Resolution: 1920×1080, Refresh Rate: 165Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-165Hz       |
-| 4  | Resoulution: 1920×1080, Refresh Rate: 144Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-144Hz       |
-| 5  | Resoulution: 1920×1080, Refresh Rate: 120Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-120Hz       |
-| 6  | Resoulution: 1920×1080, Refresh Rate: 60Hz   | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-60Hz        |
-| 7  | Resoulution: 3840×2160, Refresh Rate: 60Hz   | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-4K-60Hz         |
+| 4  | Resolution: 1920×1080, Refresh Rate: 144Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-144Hz       |
+| 5  | Resolution: 1920×1080, Refresh Rate: 120Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-120Hz       |
+| 6  | Resolution: 1920×1080, Refresh Rate: 60Hz   | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-60Hz        |
+| 7  | Resolution: 3840×2160, Refresh Rate: 60Hz   | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-4K-60Hz         |
 
 
 ### Installer
