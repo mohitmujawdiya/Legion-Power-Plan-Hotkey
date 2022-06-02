@@ -7,12 +7,12 @@ An Autohotkey Script to toggle between 1 and 2.
 
 # Installation
 
-**Installer**
+-**Installer**
 
 1. Download LegionPowerPlanHotkeyInstaller.exe from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Run it, follow the steps, you are done!
 
-**Zip Installation**
+-**Zip Installation**
 
 1. Download LegionPowerPlanHotkey.zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Extract and place it in a folder suitable to you.
