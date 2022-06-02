@@ -7,12 +7,21 @@ An Autohotkey Script to toggle between 1 and 2.
 
 # Installation
 
-1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
+**Installer**
+
+1. Download LegionPowerPlanHotkeyInstaller.exe from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
+2. Run it, follow the steps, you are done!
+
+**Zip Installation**
+
+1. Download LegionPowerPlanHotkey.zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Extract and place it in a folder suitable to you.
 3. Run LegionPowerPlan.exe
 4. Press Windows + B to make sure it works.
 
 # How to make it run at startup?
+
+**If you used the installer then the program will automatically run at startup.** Follow the instructions below if you used zip.
 
 1. Go to Start Menu > Search and Open Task Scheduler
 2. Go to Actions > Create a basic task
@@ -27,6 +36,7 @@ An Autohotkey Script to toggle between 1 and 2.
 12. Click ok. It's done!
 
 # How to build and customize it yourself?
+
 1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Download and install Autohotkey from https://www.autohotkey.com/download/.
 3. Extract LegionPowerPlanHotkey.zip. There is a .ahk script inside it.
