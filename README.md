@@ -29,7 +29,7 @@ B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vant
 ### Zip Installation
 
 1. Find your desired file name from the table above and download .zip with the same name from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
-2. Extract and place it in a folder suitable to you.
+2. Extract it, copy the "Legion Power Plan Hotkey" folder and place it in a location you prefer.
 3. Run LegionPowerPlanHotkey.exe
 5. Press Windows + B to make sure it works.
 
