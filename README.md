@@ -9,10 +9,10 @@ An Autohotkey Script to toggle between 1 and 2.
 
 ### Refresh Rate and Resolution can be different from panel to panel. The table below will guide you to the right program to install.
 
-|    | 1                                            | 2                                            | Corresponding File Name  |
-| -- | -------------------------------------------- |:--------------------------------------------:| ------------------------:|
-| 1  | Resoulution: 2560×1600, Refresh Rate: 165Hz  | Resoulution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
-| 2  | Resoulution: 1920×1080, Refresh Rate: 240Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-240Hz       |
+|    | 1                                           | 2                                           | Corresponding File Name  |
+| -- | ------------------------------------------- |:-------------------------------------------:| ------------------------:|
+| 1  | Resolution: 2560×1600, Refresh Rate: 165Hz  | Resoulution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
+| 2  | Resolution: 1920×1080, Refresh Rate: 240Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-240Hz       |
 | 3  | Resoulution: 1920×1080, Refresh Rate: 165Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-165Hz       |
 | 4  | Resoulution: 1920×1080, Refresh Rate: 144Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-144Hz       |
 | 5  | Resoulution: 1920×1080, Refresh Rate: 120Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-120Hz       |
