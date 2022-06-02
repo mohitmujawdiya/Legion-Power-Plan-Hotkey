@@ -1,15 +1,15 @@
 # Legion-Power-Plan-Hotkey
-An Autohotkey Script to toggle between 1 and 2.
+An Autohotkey Script to toggle between A and B.
 
-1 = Refresh Rate, Resolution, Windows Power Plan: Legion Balanced, Lenovo Vantage Power Plan: Balanced, Keyboard Backlight: Orange
+A = Refresh Rate, Resolution, Windows Power Plan: Legion Balanced, Lenovo Vantage Power Plan: Balanced, Keyboard Backlight: Orange
 
-2 = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vantage Power Plan: Quiet, Keyboard Backlight: Off
+B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vantage Power Plan: Quiet, Keyboard Backlight: Off
 
 ## Installation
 
 ### Refresh Rate and Resolution can be different from panel to panel. The table below will guide you to the right program to install.
 
-|    | 1                                           | 2                                           | Corresponding File Name  |
+|    | A                                           | B                                           | Corresponding File Name  |
 | -- | ------------------------------------------- |:-------------------------------------------:| ------------------------:|
 | 1  | Resolution: 2560×1600, Refresh Rate: 165Hz  | Resolution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
 | 2  | Resolution: 1920×1080, Refresh Rate: 240Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-240Hz       |
