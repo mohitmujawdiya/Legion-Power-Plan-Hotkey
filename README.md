@@ -5,21 +5,22 @@ An Autohotkey Script to toggle between 1 and 2.
 
 2 = Refresh Rate: 60Hz, Resolution: 1920×1200, 32-bit color, Windows Power Plan: Legion Quiet Mode, Lenovo Vantage Power Plan: Quiet, Keyboard Backlight: Off
 
-# Installation
+## Installation
 
--**Installer**
+### Installer
 
 1. Download LegionPowerPlanHotkeyInstaller.exe from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Run it, follow the steps, you are done!
 
--**Zip Installation**
+ 
+### Zip Installation
 
 1. Download LegionPowerPlanHotkey.zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Extract and place it in a folder suitable to you.
 3. Run LegionPowerPlan.exe
 4. Press Windows + B to make sure it works.
 
-# How to make it run at startup?
+## How to make it run at startup?
 
 **If you used the installer then the program will automatically run at startup.** Follow the instructions below if you used zip.
 
@@ -35,7 +36,7 @@ An Autohotkey Script to toggle between 1 and 2.
 11. Go to Settings tab and check "Run the task as soon as possible if the scheduled start is missed" and uncheck "stop the task if running longer than"
 12. Click ok. It's done!
 
-# How to build and customize it yourself?
+## How to build and customize it yourself?
 
 1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Download and install Autohotkey from https://www.autohotkey.com/download/.
@@ -43,7 +44,7 @@ An Autohotkey Script to toggle between 1 and 2.
 4. Customize the script as much for your liking.
 5. Compile your script in the .ahk to .exe compiler that came with Autohotkey installation.
 
-# Credits
+## Credits
 
 I am a complete noob to scripts and stuff. Thanks to the these nice folks.
 
