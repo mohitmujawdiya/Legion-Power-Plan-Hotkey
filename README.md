@@ -38,9 +38,8 @@ An Autohotkey Script to toggle between 1 and 2.
 
 ## How to build and customize it yourself?
 
-1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
+1. Download the .ahk script file from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
 2. Download and install Autohotkey from https://www.autohotkey.com/download/.
-3. Extract LegionPowerPlanHotkey.zip. There is a .ahk script inside it.
 4. Customize the script as much for your liking.
 5. Compile your script in the .ahk to .exe compiler that came with Autohotkey installation.
 
