@@ -26,6 +26,13 @@ An Autohotkey Script to toggle between 1 and 2.
 11. Go to Settings tab and check "Run the task as soon as possible if the scheduled start is missed" and uncheck "stop the task if running longer than"
 12. Click ok. It's done!
 
+# How to build and customize it yourself?
+1. Download the zip from https://github.com/mohitmujawdiya/Legion-Power-Plan-Hotkey/releases.
+2. Download and install Autohotkey from https://www.autohotkey.com/download/.
+3. Extract LegionPowerPlanHotkey.zip. There is a .ahk script inside it.
+4. Customize the script as much for your liking.
+5. Compile your script in the .ahk to .exe compiler that came with Autohotkey installation.
+
 # Credits
 
 I am a complete noob to scripts and stuff. Thanks to the these nice folks.
