@@ -13,7 +13,7 @@ An Autohotkey Script to toggle between 1 and 2.
 | -- | ------------------------------------------- |:-------------------------------------------:| ------------------------:|
 | 1  | Resolution: 2560×1600, Refresh Rate: 165Hz  | Resoulution: 1920×1200, Refresh Rate: 60Hz   |     LPPH-WQXGA-165Hz     |
 | 2  | Resolution: 1920×1080, Refresh Rate: 240Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-240Hz       |
-| 3  | Resoulution: 1920×1080, Refresh Rate: 165Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-165Hz       |
+| 3  | Resolution: 1920×1080, Refresh Rate: 165Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-165Hz       |
 | 4  | Resoulution: 1920×1080, Refresh Rate: 144Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-144Hz       |
 | 5  | Resoulution: 1920×1080, Refresh Rate: 120Hz  | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-120Hz       |
 | 6  | Resoulution: 1920×1080, Refresh Rate: 60Hz   | Resoulution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-60Hz        |
