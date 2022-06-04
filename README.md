@@ -18,6 +18,8 @@ B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vant
 | 5  | Resolution: 1920×1080, Refresh Rate: 120Hz  | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-120Hz       |
 | 6  | Resolution: 1920×1080, Refresh Rate: 60Hz   | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-FHD-60Hz        |
 | 7  | Resolution: 3840×2160, Refresh Rate: 60Hz   | Resolution: 1920×1080, Refresh Rate: 60Hz   |     LPPH-4K-60Hz         |
+| 8  | Resolution, Refresh Rate: You Choose        | Resolution, Refresh Rate: You Choose        |     Customizable*         |
+
 
 
 ## Installer
@@ -32,6 +34,8 @@ B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vant
 2. Extract it, copy the "Legion Power Plan Hotkey" folder and place it in a location you prefer.
 3. Run LegionPowerPlanHotkey.exe
 5. Press Windows + B to make sure it works.
+
+***Note**: If you chose to use Customizable.zip, you should edit the batch files yourself. By default it is using the setting from the first row of the above table for the refresh rate and resolution.
 
 # How to make it run at startup?
 
