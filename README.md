@@ -56,6 +56,8 @@ B = Refresh Rate, Resolution, Windows Power Plan: Legion Quiet Mode, Lenovo Vant
 4. Customize the script as much for your liking.
 5. Compile your script in the .ahk to .exe compiler that came with Autohotkey installation.
 
+Alternatively, you can just download customizable.zip from releases, extract it and edit the batch files for your desired configuration.
+
 # Credits
 
 I am a complete noob to scripts and stuff. Thanks to the these nice folks.
